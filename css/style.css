@@ -1,10 +1,15 @@
+<<<<<<< HEAD
 body{
 	background-color: lightblue;
 }
+=======
+
+>>>>>>> 607c0b29a4a66bb0e3b0c9c9e2b064389328af28
 h1{
 	background-color: white;
 }
 
+<<<<<<< HEAD
 p.solid{
 	border-color: blue;
 	border-width: 4px;   
@@ -14,3 +19,8 @@ p.solid{
 	border-left-style: solid;
 	font-family: "Times New Roman";
 }
+=======
+p{
+	border-style: solid;
+}
+>>>>>>> 607c0b29a4a66bb0e3b0c9c9e2b064389328af28
