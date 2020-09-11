@@ -1,6 +1,10 @@
 body{
-  background-color: red;
+	background-color: red;
 }
 h1{
-	 background-color: lightblue;
+	background-color: lightblue;
+}
+
+p.solid{
+	border-style: solid;
 }
